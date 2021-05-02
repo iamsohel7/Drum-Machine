@@ -1,4 +1,4 @@
-# This is a Drum Machine
+# React Drum Machine App
 
 
 
